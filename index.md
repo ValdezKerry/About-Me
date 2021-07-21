@@ -1,16 +1,13 @@
 =====================
 
-## Firstname Lastname
+## Kerry Valdez
 
-### Description 
+### Educator of Science
+![ChangeMe](https://www.jjay.cuny.edu/sites/default/files/forensic_science_tile.jpg)
 
-![ChangeMe](https://live.staticflickr.com/3559/5824727224_39c3ba8247_o.png)
+Kerry.com
 
-CHANGEME.com
-
-@CHANGEME
-
-linkedin.com/in/CHANGEME
+@Valdezk
 
 github.com/CHANGEME
 
@@ -26,9 +23,9 @@ github.com/CHANGEME
 
 ### Superpowers 
 
-- First 
-- Second
-- Third 
+- I can mold minds 
+- Cat rangler
+- Mom 
 
 =====================
 
